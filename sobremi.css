@@ -1,0 +1,26 @@
+body{
+    background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+h1{
+    background-color: rgb(49, 186, 236);
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color:rgb(49, 186, 236);
+    margin: 2%;
+}
+
+h3{
+    color: white;
+    margin: 2%;
+}
+
+p{
+    margin: 3%;
+    text-align: justify;
+}
